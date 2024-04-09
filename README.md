@@ -1,1 +1,1 @@
-# This is gudejoey's attempt to learn three.js.
+# This is gudejoey's attempt to learn three.js
